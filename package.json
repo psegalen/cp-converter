@@ -1,0 +1,19 @@
+{
+  "name": "cp-converter",
+  "version": "1.0.0",
+  "description": "Codes Postaux Converter - French Zip Codes and City converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psegalen/cp-converter.git"
+  },
+  "author": "Pierre Segalen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psegalen/cp-converter/issues"
+  },
+  "homepage": "https://github.com/psegalen/cp-converter#readme"
+}
